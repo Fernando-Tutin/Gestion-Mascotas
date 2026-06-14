@@ -16,16 +16,6 @@ Ambos programas permiten registrar y mostrar información básica de una mascota
 - Especie
 - Edad
 
-## Estructura del proyecto
-
-Repositorio GitHub
-├── programacion_tradicional/
-│   └── tradicional.py
-├── programacion_poo/
-│   ├── main.py
-│   └── mascota.py
-└── README.md
-
 ## Reflexión
 
 La Programación Tradicional organiza el programa mediante variables y funciones. Es adecuada para programas pequeños, pero cuando el proyecto crece puede resultar más difícil mantener y reutilizar el código.
